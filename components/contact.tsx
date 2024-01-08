@@ -36,9 +36,23 @@ export default function Contact() {
         <a className="underline" href="mailto:example@gmail.com">
           mohamedtarek70001@gmail.com
         </a>{" "}
-        or through this form.
+      </p>
+      <br/>
+      <p className="text-gray-700 -mt-6 dark:text-white/80">
+        Call me directly at{" "}
+        <a className="underline" href="mailto:example@gmail.com">
+         01501503790
+        </a>{" "}
+      </p>
+      <br/>
+      <p className="text-gray-700 -mt-6 dark:text-white/80">
+        WatsApp me directly at{" "}
+        <a className="underline" href="mailto:example@gmail.com">
+          01024194926
+        </a>{" "}
       </p>
 
+{/* 
       <form
         className="mt-10 flex flex-col dark:text-black"
         action={async (formData) => {
@@ -68,7 +82,7 @@ export default function Contact() {
           maxLength={5000}
         />
         <SubmitBtn />
-      </form>
+      </form> */}
     </motion.section>
   );
 }
