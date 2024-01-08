@@ -5,8 +5,6 @@ import { LuGraduationCap } from "react-icons/lu";
 import ecommereceImg from "@/public/ecomerece.png";
 import chatImg from "@/public/chat.png";
 import footImg from "@/public/food.png";
-// import rmtdevImg from "@/public/rmtdev.png";
-// import wordanalyticsImg from "@/public/wordanalytics.png";
 
 export const links = [
   {
@@ -37,28 +35,36 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
+    title: "Self-motivated, Passion for programming and computer science.",
+    location: "",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
+      "Self-motivated and detail-oriented individual with a strong passion for computer science and technology. Demonstrated hands-on experience through personal projects focused on web development,",
     icon: React.createElement(LuGraduationCap),
     date: "2019",
   },
   {
-    title: "Front-End Developer",
-    location: "Orlando, FL",
+    title: "Problem Solving with javascript, C++, SQL",
+    location: "LeetCode",
     description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      "Problem Solving: Proven ability to tackle complex algorithmic and coding challenges, having successfully solved over 1000 problems on LeetCode.",
     icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2021",
+    date: "2022 - present",
   },
   {
     title: "Full-Stack Developer",
-    location: "Houston, TX",
+    location: "",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+      "Self-motivated and detail-oriented individual with a strong passion for computer science and technology. Demonstrated hands-on experience through personal projects focused on web development.",
     icon: React.createElement(FaReact),
-    date: "2021 - present",
+    date: "2023 - present",
+  },
+  {
+    title: "Passionate learner embracing the latest technologies.",
+    location: "",
+    description:
+      "Eager to explore and adapt to emerging trends in the ever-evolving tech landscape. Committed to continuous growth and development on the cutting edge of innovation. Aspiring to contribute meaningfully to the dynamic world of technology",
+    icon: React.createElement(FaReact),
+    date: "2023 - present",
   },
 ] as const;
 
