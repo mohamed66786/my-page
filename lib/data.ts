@@ -113,7 +113,7 @@ export const projectsData = [
   {
     title: "Frontend-Mentor-Challenge",
     description:
-      "This Project is designed to create a responsive and user-friendly web application. In this project, we have harnessed the power of React, a dynamic JavaScript library, and styled components, a CSS-in-JS library, to build a modern and visually stunning user interface.",
+      "This Project is designed to create a responsive and user-friendly web application using the power of React, and styled components, a CSS-in-JS library, to build a modern and visually stunning user interface.",
     tags: ["React", "HTML", "Tailwind", "CSS", "Responsive Web Design"],
     imageUrl: fm,
     github: "https://github.com/mohamed66786/Frontend-Mintor-challenge",
