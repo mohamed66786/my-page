@@ -5,6 +5,8 @@ import { LuGraduationCap } from "react-icons/lu";
 import ecommereceImg from "@/public/ecomerece.png";
 import chatImg from "@/public/chat.png";
 import footImg from "@/public/food.png";
+import fm from "@/public/fm.png";
+import leetcode from "@/public/leetcode.png";
 
 export const links = [
   {
@@ -108,6 +110,22 @@ export const projectsData = [
     imageUrl: chatImg,
     github: "https://github.com/mohamed66786/MERN-Chat-App",
   },
+  {
+    title: "Frontend-Mentor-Challenge",
+    description:
+      "This Project is designed to create a responsive and user-friendly web application. In this project, we have harnessed the power of React, a dynamic JavaScript library, and styled components, a CSS-in-JS library, to build a modern and visually stunning user interface.",
+    tags: ["React", "HTML", "Tailwind", "CSS", "Responsive Web Design"],
+    imageUrl: fm,
+    github: "https://github.com/mohamed66786/Frontend-Mintor-challenge",
+  },
+  {
+    title: "Problem Solving",
+    description:
+      "Problem Solving: Proven ability to tackle complex algorithmic and coding challenges, having successfully solved over 1000 problems on LeetCode.",
+    tags: ["Algorithmis", "DataStructur", "Problem Solving"],
+    imageUrl: leetcode,
+    github: "https://leetcode.com/mohamedtarek4545/",
+  },
 ] as const;
 
 export const skillsData = [
@@ -131,5 +149,4 @@ export const skillsData = [
   "OOP",
   "MySQL",
   "Socket.io",
-  
 ] as const;
