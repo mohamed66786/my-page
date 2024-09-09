@@ -32,7 +32,7 @@ export default function About() {
           and BackEnd Tools like Express.js, C#, .Net Framework, using RDBMS like MSSQL Server and PostgreSQL,
           and Non-RDBMS like MongoDB, and also know the basics of CI/CD Pipelines 
         </span>
-        . I am also familiar with TypeScript. I am always looking to
+        .I am always looking to
         learn new technologies. I am currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a software
         developer.
