@@ -19,7 +19,7 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
+        While Studying and after graduating with a degree in{" "}
         <span className="font-medium">Science</span>, I decided to pursue my
         passion for programming and computer science. I enrolled in a coding bootcamp and learned{" "}
         <span className="font-medium">full-stack web development</span>.{" "}
@@ -28,9 +28,11 @@ export default function About() {
         feeling of finally figuring out a solution to a problem. My core stack
         is{" "}
         <span className="font-medium underline">
-          React, Next.js, Node.js, Express.js, and MongoDB
+          Creating Full-Stack Web Apps using FrontEnd Tools like JS, TypeScript, React, Next.js, and Node.js
+          and BackEnd Tools like Express.js, C#, .Net Framework, using RDBMS like MSSQL Server and PostgreSQL,
+          and Non-RDBMS like MongoDB, and also know the basics of CI/CD Pipelines 
         </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
+        . I am also familiar with TypeScript. I am always looking to
         learn new technologies. I am currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a software
         developer.
