@@ -88,14 +88,6 @@ export const projectsData = [
     github: "https://github.com/mohamed66786/MERN-E-COMMERECE-APP",
   },
   {
-    title: "Restaurant Page",
-    description:
-      "This project describes more information about restaurant food and enhances user experience about restaurants. This project was created by Reactjs.",
-    tags: ["React", "HTML", "Tailwind", "CSS", "Responsive Web Design"],
-    imageUrl: footImg,
-    github: "https://github.com/mohamed66786/Restaurant--Page",
-  },
-  {
     title: "MERN Chat App",
     description:
       "Real-Time Chat Application built on the powerful MERN Stack, provide users with a dynamic and responsive chat experience",
@@ -109,6 +101,14 @@ export const projectsData = [
     ],
     imageUrl: chatImg,
     github: "https://github.com/mohamed66786/MERN-Chat-App",
+  },
+    {
+    title: "Restaurant Page",
+    description:
+      "This project describes more information about restaurant food and enhances user experience about restaurants. This project was created by Reactjs.",
+    tags: ["React", "HTML", "Tailwind", "CSS", "Responsive Web Design"],
+    imageUrl: footImg,
+    github: "https://github.com/mohamed66786/Restaurant--Page",
   },
   {
     title: "Frontend-Mentor-Challenge",
