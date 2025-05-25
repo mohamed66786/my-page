@@ -60,6 +60,7 @@ export default function Header() {
           ))}
         </ul>
       </nav>
+      <button id="att">AttendanceNow</>
     </header>
   );
 }
